@@ -2,7 +2,6 @@
 - Customer start screen functionality
 - Customer cost screen functionality
 - Customer buying books, updating points and status
-- Final report
 
 # Finished:
 - Created customer and book lists
@@ -13,3 +12,4 @@
 - Owner start screen functionality
 - Owner customer screen functionality
 - Owner book screen functionality
+- Final report
